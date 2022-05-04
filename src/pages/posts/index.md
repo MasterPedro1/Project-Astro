@@ -14,6 +14,6 @@ description: Datos Personales
 ### Nombre: Pedro Morales Cabañas
 Correo: pedromoralescaba@gmail.com
 
-![Foto](/Pedro.jpg)
+![Foto](/Project-Astro/public/Pedro.jpg)
 
 
